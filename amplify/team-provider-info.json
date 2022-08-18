@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pdfgen-dev-162316-authRole",
+      "UnauthRoleArn": "arn:aws:iam::691571816203:role/amplify-pdfgen-dev-162316-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::691571816203:role/amplify-pdfgen-dev-162316-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-pdfgen-dev-162316-deployment",
+      "UnauthRoleName": "amplify-pdfgen-dev-162316-unauthRole",
+      "StackName": "amplify-pdfgen-dev-162316",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:691571816203:stack/amplify-pdfgen-dev-162316/84bdc740-1c73-11ed-adfb-066aac7ffa2b",
+      "AmplifyAppId": "d3j7nx36on24dg"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3j7nx36on24dg",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
